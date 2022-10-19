@@ -1,0 +1,6 @@
+- run: git config --global user.email "indran@calcey.com"
+- run: git config --global user.name "IJayatharan"
+- run: git status
+- run: git add .
+- run: git commit -m "test"
+- run: git push
